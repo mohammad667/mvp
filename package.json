@@ -1,0 +1,27 @@
+{
+  "name": "rbk3-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackreactor/rbk3-mvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackreactor/rbk3-mvp/issues"
+  },
+  "homepage": "https://github.com/hackreactor/rbk3-mvp#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "mongojs": "^2.4.1",
+    "mongoose": "^4.11.13"
+  }
+}
